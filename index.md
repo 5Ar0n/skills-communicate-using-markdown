@@ -1,5 +1,6 @@
 # To see how this working
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
@@ -14,5 +15,3 @@
 
 
 
-
-Add a couple lines
